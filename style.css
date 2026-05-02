@@ -1,0 +1,24 @@
+body{
+    font-family: Arial;
+    text-align: center;
+    background: linear-gradient(to right, #1a4763, #103047, #081824);
+}
+h1{
+    text-align: center;
+    color: #000000;
+    margin-bottom: 20px;
+}
+
+li{
+    
+    color: black;
+    margin: 10px auto;
+    padding: 10px;
+    width: 250px;
+    border-radius: 5px;
+}
+
+.done {
+    text-decoration: line-through;
+    color: red;
+}
